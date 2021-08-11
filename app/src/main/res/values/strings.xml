@@ -6,7 +6,7 @@
     <string name="enter_singers_name_here">Enter Brand Here</string>
     <string name="add">Add</string>
     <string name="show_list">Show List</string>
-    <string name="song_id">Song ID:</string>
+    <string name="song_id">Gear ID:</string>
     <string name="song_title">Model:</string>
     <string name="enter_song_title_here">Enter model here</string>
     <string name="singers">Brand:</string>
